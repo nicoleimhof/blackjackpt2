@@ -66,6 +66,7 @@ public class Blackjack {
                 noNewCard = false;
             }
             // comment!
+            // comment 2
 
             if (playerHand > 21) {
                 System.out.println("You exceeded 21! You lose.");
